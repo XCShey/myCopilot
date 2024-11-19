@@ -8,7 +8,7 @@
 namespace Config
 {
     inline std::wstring title = L"Copilot";                  //窗口标题
-    inline std::wstring index = L"https://copilot.microsoft.com/";//打开窗口后加载的主页
+    inline std::wstring index = L"https://bingai.xcsper.us.kg/";//打开窗口后加载的主页
     inline std::wstring userDataFolder = L"Copilot_userData";//用户数据文件夹名，生成在应用程序同目录下
     inline UINT dockedWindowWidth = 600;                   //窗口靠边停时，窗口的宽度
     inline BOOL devToolsEnabled = FALSE;                   //启用浏览器开发者调试模式(F12)
